@@ -1,0 +1,9 @@
+Model_Name,Input_Price_1M,Output_Price_1M,Context_Window,Reasoning_Capability,Provider_Status
+Claude Opus 4.6,$5.00,$25.00,1M (beta),Frontier Thinking,Premium / Quality Leader
+Gemini 3.1 Pro,$2.00,$12.00,1M - 2M,Frontier Adaptive,Price/Performance Leader
+GPT-5.2 (High),$1.75,$14.00,400K,Unified Routing,Enterprise Standard
+Grok-4.1 (Thinking),$3.00,$15.00,256K,Real-time Reasoning,X Integration Special
+Claude Sonnet 4.6,$3.00,$15.00,1M (beta),High Agentic,Balanced Workhorse
+DeepSeek R1-0528,$0.55,$2.19,128K,Competitive Reasoning,Open-Weights Disruptor
+Gemini 3 Flash,$0.10,$0.40,1M,Fast Inference,Budget High-Volume
+o4-mini,$1.10,$4.40,200K,Reasoning Mini,Reasoning Value

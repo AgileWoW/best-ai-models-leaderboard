@@ -1,0 +1,9 @@
+Model_Name,Hallucination_Rate,Factual_Consistency,AA_Omniscience_Index,Truthfulness_Score,Provider_Status
+GPT-5.2 (High),1.6%,99.6%,15,98.4%,Safety Leader (Medical/Legal)
+Gemini 3.1 Pro,50.0%,94.5%,13,94.0%,Improved - Lowest among MM
+Claude Opus 4.6,5.8%,94.2%,11,94.2%,Expert Accuracy Leader
+Claude Sonnet 4.6,10.6%,89.4%,10,89.5%,Balanced Efficiency
+GPT-5.1 (High),51.0%,89.1%,9,88.2%,Standard Reliability
+DeepSeek R1,11.3%,88.7%,8,87.0%,Open-Weights Accuracy
+Gemini 3 Pro,88.0%,53.0%,7,53.5%,Legacy (High Reasoning Effort)
+Llama 4 Scout,14.2%,85.8%,6,85.2%,Enterprise Open Source

@@ -38,6 +38,14 @@ Access curated technical deep-dives on [aidevdayindia.org](https://aidevdayindia
 * **[Best AI for Text-to-Video](https://aidevdayindia.org/blogs/best-ai-models/best-ai-for-text-to-video.html):** Models that finally pass the real-world physics test.
 * **[Best AI for Image-to-Video](https://aidevdayindia.org/blogs/best-ai-models/best-ai-for-image-to-video.html):** Cinematic animation benchmarks for still photos.
 
+### 📊 Reliability & Accuracy Benchmarks
+Our 2026 audit captures the "Trust Gap" across leading architectures. We measure factual grounding, consistency, and the impact of reasoning-effort on accuracy.
+
+> 💡 **Strategic Tip:** Pair these accuracy scores with our [Pricing vs Performance Data](./data/pricing-vs-performance.csv) to calculate your true **AI Risk ROI**.
+
+* **[Hallucination Metrics Log](./data/hallucination-metrics.csv):** Detailed factual consistency scores across PhD-level datasets.
+* **[Technical Standing Summary](https://aidevdayindia.org/blogs/best-ai-models/best-ai-models.html):** Read the full report on how Gemini 3.1 Pro slashed its error rate by 38% this month.
+
 ---
 
 ## ⚖️ Independent Attribution
